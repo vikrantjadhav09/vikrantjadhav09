@@ -1,5 +1,31 @@
-# 💫 About Me:
-🛠️ I’m currently working on  <br>- Building small web projects and improving existing repositories  <br>- Practicing core programming concepts and logic building  <br><br>🤝 I’m looking to collaborate on  <br>- Beginner-friendly open-source projects  <br>- Web development or Java/Python based mini projects  <br><br>🆘 I’m looking for help with  <br>- Writing clean, scalable code  <br>- Project structuring and best practices  <br><br>🌱 I’m currently learning  <br>- Java & JavaScript  <br>- Frontend development (HTML, CSS)  <br>- Git, GitHub & problem-solving  <br><br>💬 Ask me about  <br>- Beginner programming concepts  <br>- Creating simple web apps  <br>- GitHub basics and project setup  <br><br>⚡ Fun fact  <br>- I believe consistency > talent, and I code every day to prove it.<br>arning<br>💬 Ask me about<br>⚡ Fun fact
+## 💫 About Me
+
+🔭 I’m currently working on  
+- Building small web applications  
+- Improving existing GitHub repositories  
+- Strengthening core programming & logic  
+
+👯 I’m looking to collaborate on  
+- Beginner-friendly open-source projects  
+- Web development and Java / Python mini projects  
+
+🤝 I’m looking for help with  
+- Writing clean, scalable code  
+- Project structure and best coding practices  
+
+🌱 I’m currently learning  
+- Java & JavaScript  
+- Frontend development (HTML, CSS)  
+- Git, GitHub & problem-solving  
+
+💬 Ask me about  
+- Programming basics  
+- Simple web applications  
+- GitHub & project setup  
+
+⚡ Fun fact  
+- I believe consistency beats talent, and I code almost every day.
+
 
 
 ## 🌐 Socials:
