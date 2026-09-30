@@ -101,7 +101,7 @@ Evaluation • Guardrails • Production AI
 
 ### Generative AI
 
-`LLMs` `Prompt Engineering` `RAG` `Embeddings` `Vector Search`
+`LLMs` `JEV AI-model` `Prompt Engineering` `RAG` `Embeddings` `Vector Search`
 
 ### AI Application Development
 
