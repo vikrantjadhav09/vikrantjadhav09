@@ -170,7 +170,7 @@ I'm interested in collaborating on:
 
 [GitHub](https://github.com/vikrantjadhav09)
 
-📧 **[vikramj636@gmail.com](mailto:vikrantj636@gmail.com)**
+📧 **[vikrantj636@gmail.com](mailto:vikrantj636@gmail.com)**
 
 ---
 
