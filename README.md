@@ -2,9 +2,11 @@
 
 ### AI/ML Engineer • Generative AI • RAG • Agentic AI
 
-I build **practical AI systems that turn real-world problems into usable products** — from machine learning and data analysis to LLM applications, Retrieval-Augmented Generation, AI agents, and conversational AI.
+I’m a **Computer Science graduate** focused on building practical **AI/ML and Generative AI applications** that solve real-world problems.
 
-My current focus is on building **production-oriented AI applications** with strong grounding, structured outputs, evaluation, and safety in mind.
+My current focus includes **Machine Learning, LLM applications, Retrieval-Augmented Generation (RAG), Agentic AI, AI APIs, and AI-powered full-stack applications**.
+
+I enjoy taking an idea from **problem → data → model → AI workflow → application → deployment**.
 
 ---
 
@@ -13,35 +15,33 @@ My current focus is on building **production-oriented AI applications** with str
 * 🤖 **Machine Learning & AI Applications**
 * 🧠 **Generative AI & LLM Applications**
 * 🔎 **Retrieval-Augmented Generation (RAG)**
-* 🕸️ **Agentic AI & Multi-step Workflows**
-* 🎙️ **Conversational & Voice AI**
-* 🛡️ **AI Guardrails & Safety-aware Systems**
+* 🕸️ **Agentic AI & AI Workflows**
 * 📊 **Data Analysis & ML Pipelines**
-* 🌐 **Full-stack AI Applications**
+* 🎙️ **Conversational & Voice AI**
+* 🛡️ **AI Guardrails & Structured AI Systems**
+* 🌐 **Full-Stack AI Applications**
 
 ---
 
-## 🔥 Featured Work
+## 🔥 Featured Projects
 
-### 🩺 MedAI Clinical AI
+### 🩺 MedAI — AI Healthcare Assistant
 
-**Healthcare AI • RAG • LLM • Voice AI • Safety**
+**Healthcare AI • LLM • RAG • Voice AI • FastAPI**
 
-An AI-assisted healthcare platform combining conversational patient intake, RAG-based evidence retrieval, clinical risk screening, multilingual voice interaction, structured outputs, and safety guardrails.
+An AI-assisted healthcare application focused on **structured prescription understanding, conversational interaction, information retrieval, and AI-powered assistance**.
 
-**Focus:**
-`LLMs` `RAG` `Groq` `Voice AI` `Safety` `Streamlit` `Python`
+**Tech:** `Python` `Gemini` `FastAPI` `RAG` `LLM` `Streamlit`
 
 ---
 
-### 🎯 EduGap AI
+### 🎯 EduGap AI — AI Placement Copilot
 
 **AI Career & Placement Intelligence**
 
-An AI-powered application that analyzes resumes against real job requirements, identifies skill gaps, and generates personalized learning roadmaps.
+An AI-powered application that analyzes resumes against job descriptions, identifies skill gaps, and generates personalized learning roadmaps.
 
-**Focus:**
-`AI` `React` `TypeScript` `Node.js` `Gemini API` `Firebase`
+**Tech:** `React` `TypeScript` `Node.js` `Gemini API` `Firebase`
 
 ---
 
@@ -51,8 +51,7 @@ An AI-powered application that analyzes resumes against real job requirements, i
 
 A document intelligence application that retrieves relevant information from uploaded PDFs and generates contextual answers using an LLM.
 
-**Focus:**
-`Python` `RAG` `LangChain` `FAISS` `Embeddings` `Groq`
+**Tech:** `Python` `Streamlit` `LangChain` `FAISS` `Embeddings` `Groq`
 
 ---
 
@@ -62,8 +61,17 @@ A document intelligence application that retrieves relevant information from upl
 
 An AI application that converts natural-language questions into SQL queries and retrieves results from a database.
 
-**Focus:**
-`Python` `SQL` `LLM` `Gemini API` `SQLite`
+**Tech:** `Python` `Streamlit` `Gemini API` `SQL` `SQLite`
+
+---
+
+### 👁️ Face Recognition Attendance System
+
+**Computer Vision • AI • Automation**
+
+A face-recognition-based attendance application that uses computer vision to identify registered users and manage attendance records.
+
+**Tech:** `Python` `OpenCV` `Flask` `MySQL`
 
 ---
 
@@ -72,11 +80,11 @@ An AI application that converts natural-language questions into SQL queries and 
 ```text
 Python & SQL
       ↓
-Data Analysis
+Data Analysis & Visualization
       ↓
 Machine Learning
       ↓
-Deep Learning
+Deep Learning Fundamentals
       ↓
 Generative AI & LLMs
       ↓
@@ -84,112 +92,168 @@ RAG & Vector Search
       ↓
 Agentic AI & AI Workflows
       ↓
-Evaluation • Guardrails • Production AI
+Evaluation • Guardrails • Deployment
 ```
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
-### Programming
+### 🐍 Programming Languages
 
-`Python` `SQL` `JavaScript` `TypeScript`
 
-### Data & Machine Learning
 
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+\
 
-### Generative AI
+---
 
-`LLMs` `JEV AI-model` `Prompt Engineering` `RAG` `Embeddings` `Vector Search`
+### 📊 Data Science & Analytics
 
-### AI Application Development
 
-`LangChain` `LangGraph` `FastAPI` `Streamlit`
 
-### AI Platforms & Models
 
-`Groq` `Gemini`
+\
 
-### Databases
+---
 
-`SQL` `SQLite` `Chroma` `FAISS`
+### 🤖 Machine Learning & Computer Vision
+
+
+
+\
+
+---
+
+### 🧠 Generative AI & LLM
+
+
+
+
+\
+
+---
+
+### 🕸️ AI Frameworks & Application Development
+
+
+
+
+\
+
+---
+
+### 🤝 AI Models & Platforms
+
+
+\
+
+---
+
+### 🗄️ Databases & Vector Search
+
+
+
+
+
+\
+
+---
+
+### 🌐 Full-Stack Development
+
+
+
+
+
+\
+
+---
 
 ### ☁️ Cloud, Deployment & MLOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
-
-* ☁️ **Cloud:** AWS, Microsoft Azure
-* 🚀 **Deployment:** Vercel, Render
-* 🔌 **APIs:** REST APIs, FastAPI, Flask
-* 📦 **Application Deployment:** Streamlit, Web Applications
-* 🔄 **Version Control:** Git & GitHub
 
 
-### Web Development
+\
 
-`React` `Node.js` `HTML` `CSS`
-
-### Developer Tools
-
-`Visual Studio Code` `Jupyter` `Google Colab`
+**Cloud:** AWS • Microsoft Azure
+**Deployment:** Vercel • Render • Streamlit
+**APIs:** REST APIs • FastAPI • Flask
+**Version Control:** Git • GitHub
 
 ---
 
-## 📌 What I'm Currently Exploring
+### 🛠️ Developer Tools
 
-* Advanced Deep Learning & Transformers
-* LLM application architecture
-* Agentic AI systems
-* RAG evaluation & optimization
-* AI safety and guardrails
-* Model evaluation
-* Production AI APIs
-* MLOps & deployment
-* Multimodal and voice-based AI
+
+
+
+
+\
 
 ---
 
-## 💡 My Approach
+# 📌 Currently Exploring
 
-I don't want to build AI demos that only work in a notebook.
-
-I focus on the complete journey:
-
-**Problem → Data → Model → Context → Reasoning → Validation → Application → User**
-
-The goal is simple:
-
-> **Build AI that solves useful problems.**
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in collaborating on:
-
-* Generative AI & LLM applications
-* RAG and knowledge systems
-* Agentic AI
-* Machine Learning
-* AI-powered products
-* Open-source projects
-
-### 🌐 Find me here
-
-[LinkedIn](https://www.linkedin.com/in/vikrantjadhav09)
-
-[GitHub](https://github.com/vikrantjadhav09)
-
-📧 **[vikrantj636@gmail.com](mailto:vikrantj636@gmail.com)**
+* 🧠 Transformers & Deep Learning
+* 🤖 LLM Application Architecture
+* 🕸️ Agentic AI Systems
+* 🔎 RAG Evaluation & Optimization
+* 🛡️ AI Guardrails & Responsible AI
+* 📈 Model Evaluation
+* ⚡ Production AI APIs
+* ☁️ Cloud Deployment & MLOps
+* 🎙️ Multimodal & Voice AI
+* 🔄 AI Agents & Tool Calling
 
 ---
 
-<p align="center">
+# 💡 My Approach
+
+I don't want to build AI projects that only work inside a notebook.
+
+I focus on understanding the complete journey:
+
+```text
+Problem
+   ↓
+Data
+   ↓
+Model
+   ↓
+Context
+   ↓
+Reasoning
+   ↓
+Validation
+   ↓
+Application
+   ↓
+Deployment
+   ↓
+User
+```
+
+> **Build useful AI. Keep learning. Keep shipping. 🚀**
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to collaborating on:
+
+* 🤖 Generative AI & LLM applications
+* 🔎 RAG & knowledge systems
+* 🕸️ Agentic AI
+* 📊 Machine Learning & Data Science
+* 🌐 AI-powered full-stack applications
+* 🌍 Open-source projects
+
+### 🌐 Find Me Online
+
+
+\
+
+---
 
 ### 🚀 Build • Learn • Experiment • Ship
 
-</p>
