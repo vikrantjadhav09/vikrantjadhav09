@@ -115,13 +115,27 @@ Evaluation • Guardrails • Production AI
 
 `SQL` `SQLite` `Chroma` `FAISS`
 
+### ☁️ Cloud, Deployment & MLOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+
+* ☁️ **Cloud:** AWS, Microsoft Azure
+* 🚀 **Deployment:** Vercel, Render
+* 🔌 **APIs:** REST APIs, FastAPI, Flask
+* 📦 **Application Deployment:** Streamlit, Web Applications
+* 🔄 **Version Control:** Git & GitHub
+
+
 ### Web Development
 
 `React` `Node.js` `HTML` `CSS`
 
 ### Developer Tools
 
-`Git` `GitHub` `Jupyter` `Google Colab`
+`Visual Studio Code` `Jupyter` `Google Colab`
 
 ---
 
